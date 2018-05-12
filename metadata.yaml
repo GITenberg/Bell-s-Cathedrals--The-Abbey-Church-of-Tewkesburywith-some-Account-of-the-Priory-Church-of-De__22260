@@ -1,0 +1,33 @@
+_repo: Bell-s-Cathedrals--The-Abbey-Church-of-Tewkesburywith-some-Account-of-the-Priory-Church-of-De__22260
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Massé, H. J. L. J. (Henri Jean Louis Joseph)
+    aliases:
+    - Massé, Henri Jean Louis Joseph
+    - H. J. L. J. Massé
+    - Masse, H. J. L. J. (Henri Jean Louis Joseph)
+    birthdate: 1860
+    gutenberg_agent_id: '31515'
+    url: http://www.gutenberg.org/2009/agents/31515
+description: ''
+gutenberg_bookshelf: Architecture
+gutenberg_issued: '2007-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22260'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tewkesbury Abbey'
+- !lcsh 'Deerhurst (England). Priory church'
+- !lcc 'NA'
+title: 'Bell''s Cathedrals: The Abbey Church of Tewkesbury
+
+  with some Account of the Priory Church of Deerhurst Gloucestershire'
+url: http://www.gutenberg.org/ebooks/22260
